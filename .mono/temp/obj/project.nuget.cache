@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jWVmtTo1RyAFwhh5Tcv1pAlWInuABsalnqYsIxjfG0G8KUVgnA3t81XVbZP/WASybI8SUBR9weWTIpx5TlhLAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nosri\\Projects\\CardPop\\CardPop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nosri\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.2\\microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "C:\\Users\\nosri\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.2\\microsoft.netframework.referenceassemblies.net472.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+C:\Users\nosri\Projects\CardPop\.mono\temp\bin\Debug\CardPop.dll
+C:\Users\nosri\Projects\CardPop\.mono\temp\bin\Debug\CardPop.pdb
+C:\Users\nosri\Projects\CardPop\.mono\temp\obj\Debug\CardPop.csproj.AssemblyReference.cache
+C:\Users\nosri\Projects\CardPop\.mono\temp\obj\Debug\CardPop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nosri\Projects\CardPop\.mono\temp\obj\Debug\CardPop.AssemblyInfoInputs.cache
+C:\Users\nosri\Projects\CardPop\.mono\temp\obj\Debug\CardPop.AssemblyInfo.cs
+C:\Users\nosri\Projects\CardPop\.mono\temp\obj\Debug\CardPop.csproj.CoreCompileInputs.cache
+C:\Users\nosri\Projects\CardPop\.mono\temp\obj\Debug\CardPop.dll
+C:\Users\nosri\Projects\CardPop\.mono\temp\obj\Debug\CardPop.pdb
